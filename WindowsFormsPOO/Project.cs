@@ -15,6 +15,20 @@ namespace WindowsFormsPOO
         private string _finishP;
         //propiedades autoimplementadas
         public string _descriptionP { get; set; }
+
+
+        //metodo constructor
+        public Project() //metodo vacio
+        { }
+
+        //soporte de sobrecarga de constructor
+        public Project(int projectsId, string start, string finish, string description)
+        {
+            _projectsId = projectsId;
+            _startP = start;
+            _finishP = finish;
+            _descriptionP = description;
+        }
        
         //metodos de propiedad 
         public int getprojectsId()
@@ -58,5 +72,12 @@ namespace WindowsFormsPOO
         //}
 
        
+        public string getProjectInfo()
+        {
+            return "ID: " + _projectsId + " inicio: " + _startP +
+                " final: " + _finishP + " descripcion: " + _descriptionP;
+                
+        }
+
     }
 }

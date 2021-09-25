@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\bin\Debug\WindowsFormsPOO.exe.config
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\bin\Debug\WindowsFormsPOO.exe
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\bin\Debug\WindowsFormsPOO.pdb
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.Form1.resources
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.Properties.Resources.resources
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.exe
+C:\Users\Pc\Desktop\Proyectos\WindowsFormsPOO\WindowsFormsPOO\obj\Debug\WindowsFormsPOO.pdb
